@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kavishka! 👋
 
 ![Banner Image](https://your-banner-image-url.com)
 
@@ -7,9 +7,9 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 
 ## 🌟 Skills & Expertise
 - **Languages**: JavaScript (ES6+), PHP, HTML5, CSS3
-- **Frameworks & Libraries**: React, Tailwind CSS, Bootstrap, Select2
+- **Frameworks & Libraries**: React, Tailwind CSS, Bootstrap, NEXT
 - **Tools & Platforms**: Handsontable, AG Grid, Synology SDK, Web Workers
-- **Database**: MySQL
+- **Database**: MySQL, Mongo  DB
 - **Other**: API Integration, Responsive Design, PDF Generation, Data Handling
 
 ### Skill Progress
@@ -17,9 +17,10 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 |----------------------|-------------|
 | JavaScript (ES6+)    | ![90%](https://progress-bar.dev/90) |
 | PHP                  | ![85%](https://progress-bar.dev/85) |
-| React                | ![80%](https://progress-bar.dev/80) |
+| NEXT                | ![80%](https://progress-bar.dev/80) |
 | Tailwind CSS         | ![75%](https://progress-bar.dev/75) |
 | MySQL                | ![85%](https://progress-bar.dev/85) |
+| Mongo DB                | ![85%](https://progress-bar.dev/85) |
 
 ## 🛠️ Projects & Highlights
 ### 1. **Dynamic Invoice System**
@@ -48,9 +49,9 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 - Ensured data integrity while processing null or invalid inputs.
 
 ## 🌐 Connect with Me
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Website](https://your-portfolio.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/Kavi8428)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/m-d-l-u-kavishka)
+- **Portfolio**: [Your Website](https://mdlukavishka.online/)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)

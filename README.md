@@ -56,8 +56,8 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 - **Portfolio**: [Your Website](https://mdlukavishka.online/)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavi8428&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi8428&layout=compact&theme=radical)
 
 ---
 

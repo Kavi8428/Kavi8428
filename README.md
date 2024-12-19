@@ -8,20 +8,21 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 
 ## 🌟 Skills & Expertise
 - **Languages**: JavaScript (ES6+), PHP, HTML5, CSS3
-- **Frameworks & Libraries**: React, Tailwind CSS, Bootstrap, NEXT
+- **Frameworks & Libraries**: NEXT.js, Tailwind CSS, Bootstrap, 
 - **Tools & Platforms**: Handsontable, AG Grid, Synology SDK, Web Workers
-- **Database**: MySQL, Mongo  DB
+- **Database**: MySQL, Mongo DB
 - **Other**: API Integration, Responsive Design, PDF Generation, Data Handling
 
 ### Skill Progress
 | Skill                | Proficiency |
 |----------------------|-------------|
-| JavaScript (ES6+)    | ![90%](https://progress-bar.dev/90) |
-| PHP                  | ![85%](https://progress-bar.dev/85) |
-| NEXT                | ![80%](https://progress-bar.dev/80) |
-| Tailwind CSS         | ![75%](https://progress-bar.dev/75) |
-| MySQL                | ![85%](https://progress-bar.dev/85) |
-| Mongo DB                | ![85%](https://progress-bar.dev/85) |
+| JavaScript (ES6+)    | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-green) |
+| PHP                  | ![PHP](https://img.shields.io/badge/PHP-85%25-green) |
+| NEXT                 | ![NEXT](https://img.shields.io/badge/NEXT-80%25-yellow) |
+| Tailwind CSS         | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-75%25-orange) |
+| MySQL                | ![MySQL](https://img.shields.io/badge/MySQL-85%25-green) |
+| Mongo DB             | ![MongoDB](https://img.shields.io/badge/MongoDB-85%25-green) |
+
 
 ## 🛠️ Projects & Highlights
 ### 1. **Dynamic Invoice System**

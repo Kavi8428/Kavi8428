@@ -67,6 +67,7 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 Feel free to connect or check out my repositories! 🚀
 
 ### 🚀 Animated Icons
-- 🌟 **Motivated to Learn** ![Sparkle](https://img.icons8.com/color/48/000000/sparkling.png)
-- 💻 **Code with Passion** ![Laptop](https://img.icons8.com/color/48/000000/laptop.png)
-- 📖 **Continuous Improvement** ![Book](https://img.icons8.com/color/48/000000/open-book.png)
+- 🌟 **Motivated to Learn** ![Sparkle](https://img.icons8.com/ios-filled/50/000000/sparkle.png)
+- 💻 **Code with Passion** ![Laptop](https://img.icons8.com/ios-filled/50/000000/laptop.png)
+- 📖 **Continuous Improvement** ![Book](https://img.icons8.com/ios-filled/50/000000/open-book.png)
+

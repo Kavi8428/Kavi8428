@@ -1,6 +1,6 @@
 # Hi there, I'm Kavishka! 👋
 
-![Banner Image](https://files.oaiusercontent.com/file-Hk2DmJBuraNB7cvcjh5TeR?se=2024-12-19T06%3A39%3A27Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D64c31af9-fd70-4407-8f50-7ed0aec8799b.webp&sig=5Xry4GxqNtG1/8TCUxU6GoOKDA1lDNhTZCJtu2/iGI8%3D)
+![Banner Image](https://img.freepik.com/premium-photo/developing-programmer-reading-computer-codes-development-website-design-coding-technologies_45041-378.jpg?w=826)
 
 
 ## 🚀 About Me

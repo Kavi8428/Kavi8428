@@ -1,6 +1,6 @@
 # Hi there, I'm Kavishka! 👋
 
-![Banner Image](https://videocdn.cdnpk.net/videos/d9afb252-5453-447f-bc67-99130f014b3c/horizontal/previews/clear/large.mp4?token=exp=1734593115~hmac=84c97661fa91689e84cad30a8dfb0782bdabb1b8ad39f18fda3e804c77d15d67)
+[Watch my banner video](https://videocdn.cdnpk.net/videos/d9afb252-5453-447f-bc67-99130f014b3c/horizontal/previews/clear/large.mp4?token=exp=1734593115~hmac=84c97661fa91689e84cad30a8dfb0782bdabb1b8ad39f18fda3e804c77d15d67)
 
 
 ## 🚀 About Me

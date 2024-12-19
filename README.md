@@ -1,6 +1,7 @@
 # Hi there, I'm Kavishka! 👋
 
-![Banner Image](https://your-banner-image-url.com)
+![Banner Image](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+Portfolio)
+
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and user-friendly applications. From designing elegant front-end interfaces to building robust back-end systems, I thrive in bridging the gap between design and functionality.

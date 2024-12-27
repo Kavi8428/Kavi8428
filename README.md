@@ -51,9 +51,9 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 - Ensured data integrity while processing null or invalid inputs.
 
 ## 🌐 Connect with Me
-- **GitHub**: [Your GitHub Profile](https://github.com/Kavi8428)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/m-d-l-u-kavishka)
-- **Portfolio**: [Your Website](https://mdlukavishka.online/)
+- **GitHub**: https://github.com/Kavi8428
+- **LinkedIn**: https://linkedin.com/in/m-d-l-u-kavishka
+- **Portfolio**: https://mdlukavishka.online/
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavi8428&show_icons=true&theme=radical)

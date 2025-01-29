@@ -66,7 +66,6 @@ I'm a passionate **Full-Stack Developer** with a knack for creating dynamic and 
 
 Feel free to connect or check out my repositories! 🚀
 
-### 🚀 Animated Icons
 - 🌟 **Motivated to Learn** 
 - 💻 **Code with Passion**
 - 📖 **Continuous Improvement**
